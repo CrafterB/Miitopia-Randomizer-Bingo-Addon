@@ -10,3 +10,6 @@ An addition to Kobazco's Miitopia Randomizer, which generates a bingo board.
 6. Create a new room, set the Game to "Custom (Advanced)"
 7. Set the Variant to "Randomized"
 8. Paste the text from "Board.txt" into the Board field on the site
+
+### Credit
+Credit goes out to both CommandMC and Kobazco. Kobazco obviously made the randomizer, and Command rewrote this whole thing.
